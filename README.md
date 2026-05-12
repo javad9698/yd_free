@@ -1,7 +1,7 @@
 # 🎬 دانلودر یوتیوب + ⬇️ دانلودر مستقیم فایل
 
 <div align="center">
-  <img src="icon.gif" alt="Demo" width="500" />
+  <img src="download.gif" alt="Demo" width="500" />
 </div>
 
 <div dir="rtl">
